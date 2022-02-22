@@ -1,0 +1,38 @@
+div {
+  width: 80%;
+  margin: auto;
+}
+h1 {
+  color: blue;
+  background-color: brown;
+  position: sticky;
+  top: 10px;
+}
+h2 {
+  color: red;
+  border: 1px dashed;
+}
+p {
+  border: 1px solid black;
+  padding: 10px;
+}
+#paragraf {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+img {
+  border: 1px solid green;
+  padding: 10px;
+  margin: 0px;
+}
+
+ul li {
+  background: blue;
+}
+
+.warna {
+  background: green;
+}
+
+.huruf {
+  font-style: italic;
+}
