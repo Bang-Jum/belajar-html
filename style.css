@@ -28,9 +28,9 @@ img {
 ul li {
   color: #fff;
   background-color: darkorange;
-  display: block;
+  display: inline-block;
   border: 1px blue;
-  float: left;
+
   padding: 10px;
   position: relative;
   text-decoration: none;
